@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import { Container, LinearProgress, MenuItem, MenuList } from '@mui/material';
 import { Group } from '@mui/icons-material';
 import { NavLink } from 'react-router';
-import MenuItemLink from '../shares/components/MenuItemLink';
+import MenuItemLink from '../shared/components/MenuItemLink';
 import { useStore } from '../../lib/hooks/useStore';
 import { Observer } from 'mobx-react-lite';
 
